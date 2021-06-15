@@ -92,7 +92,7 @@ a{
   }
   
   .image {
-    width: 320px;
+    width: auto;
     height: 320px;
     left: 21px;
     top: 141px;
